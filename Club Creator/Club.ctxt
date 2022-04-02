@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Club
+comment1.params=name\ baseAmount
+comment1.target=Club(java.lang.String,\ double)
+comment2.params=
+comment2.target=int\ getNrOfMembers()
+comment3.params=m
+comment3.target=void\ addMember(Member)
+comment4.params=dbName
+comment4.target=void\ populateFromDB(java.lang.String)
+numComments=5
