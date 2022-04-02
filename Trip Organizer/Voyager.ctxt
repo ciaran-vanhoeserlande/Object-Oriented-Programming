@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Voyager
+comment1.params=voyagerName\ voyagerBudget
+comment1.target=Voyager(java.lang.String,\ float)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=float\ getBudget()
+comment4.params=
+comment4.target=Trajectory\ getTrajectory()
+comment5.params=newTrajectory
+comment5.target=void\ setTrajectory(Trajectory)
+comment6.params=
+comment6.target=void\ bookRide()
+comment7.params=
+comment7.target=boolean\ tripPossible()
+numComments=8

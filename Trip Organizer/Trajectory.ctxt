@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trajectory
+comment1.params=motType\ from\ to\ cost
+comment1.target=Trajectory(java.lang.String,\ java.lang.String,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=float\ use()
+comment3.params=newDiscount
+comment3.target=void\ setDiscount(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+numComments=5
